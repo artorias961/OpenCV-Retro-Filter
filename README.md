@@ -1,5 +1,8 @@
 # OpenCV Retro Filter
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1bcd3bb-d228-40e8-97ba-06d901f3c905" />
+
+
 A small **C++ + OpenCV** project that converts an input image into a **retro (GBA‑inspired) look** using classic image-processing steps:
 pixelation, palette reduction, and ordered dithering. A **Python implementation** of the same effect is also included for comparison.
 
