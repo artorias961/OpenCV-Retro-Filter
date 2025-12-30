@@ -1,0 +1,3 @@
+C:/Users/artor/OneDrive/Desktop/OpenCV to Retro/c++/version_3 - Video_Multi_Threadings/build/CMakeFiles/OpenCVExample.dir
+C:/Users/artor/OneDrive/Desktop/OpenCV to Retro/c++/version_3 - Video_Multi_Threadings/build/CMakeFiles/edit_cache.dir
+C:/Users/artor/OneDrive/Desktop/OpenCV to Retro/c++/version_3 - Video_Multi_Threadings/build/CMakeFiles/rebuild_cache.dir
